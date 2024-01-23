@@ -1,0 +1,14 @@
+.black_card{
+    background-color: lightgray; 
+    padding: 3px;
+}
+
+.red_card{
+    color: darkred; 
+    background-color: lightgray; 
+    padding: 3px;
+}
+
+div{
+    font-size: 30px;
+}
