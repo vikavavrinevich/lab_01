@@ -12,3 +12,11 @@
 div{
     font-size: 30px;
 }
+
+pre span{
+    color: brown;
+}
+
+pre span span{
+    color: black;
+}
